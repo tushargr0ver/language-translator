@@ -1,0 +1,23 @@
+html, body {
+  background-color: rgb(112, 123, 243);
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.main{
+  width: 500px;
+  height: 700px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.box{
+margin-top: 200px;
+
+}
+
